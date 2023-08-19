@@ -1,5 +1,3 @@
-require 'benchmark'
-
 class ArraySearch
   # *********************************************
   # Simple search: O(n)
